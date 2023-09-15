@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zariffromlatif
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me zariffromlatif@gmail.com
+  
+-  I’m currently learning life
+-  I’m looking to collaborate on anything
+- How to reach me zariffromlatif@gmail.com
 
 <!---
 zariffromlatif/zariffromlatif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
