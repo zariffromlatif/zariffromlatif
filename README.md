@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zariffromlatif
   
--  I’m currently learning life
+-  Doing undergraduate in computer science and engineering
 -  I’m looking to collaborate on anything
 - How to reach me zariffromlatif@gmail.com
 
