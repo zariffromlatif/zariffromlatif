@@ -18,7 +18,7 @@ Building at the intersection of **AI, cybersecurity, and software engineering.**
 
 Computer Science student at **BRAC University** focused on **AI/ML, AI security, intelligent systems, and program analysis**.
 
-I research, build, and ship — turning ideas into practical systems.
+I research, build, and ship,  turning ideas into practical systems.
 
 ### Stack
 
